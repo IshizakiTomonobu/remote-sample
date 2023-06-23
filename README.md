@@ -1,2 +1,3 @@
 # remote-sample
 hoge
+fuga
